@@ -38,6 +38,7 @@
   },
   "files": [
     "dist",
+    "sass",
     "LICENSE",
     "README.md"
   ]
